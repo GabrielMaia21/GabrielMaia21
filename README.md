@@ -43,10 +43,10 @@ para atuar profissionalmente no mercado de trabalho.
 
 ### 🌐 Onde me encontrar
 
-📫 **Email:** gabrielmaia21@email.com  
+📫 **Email:** gabriel.adriano2004@hotmail.com  
 💼 **LinkedIn:** [linkedin.com/in/gabriel--maia](https://www.linkedin.com/in/gabriel--maia)  
 🖥️ **Portfólio:** [gabrielmaia.vercel.app](https://gabrielmaia.vercel.app/)
 
 ---
 
-> “A melhor forma de aprender programação é **fazendo código todos os dias**.” 💡
+> A lógica me guia, mas a curiosidade me move.🔍💡
